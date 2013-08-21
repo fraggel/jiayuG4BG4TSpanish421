@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Actualización Sistema</string>
+    <string name="update_settings">Actualización Sistema</string>
+    <string name="does_not_exist">No existe el fichero de actualización.</string>
+    <string name="update_to_settings">Actualizar Sistema</string>
+    <string name="ok">Aceptar</string>
+    <string name="used">usado</string>
+    <string name="upgrade">actualización</string>
+    <string name="update_name">actualización</string>
+    <string name="update_content">actualización info：</string>
+    <string name="update_noInfo">Nada </string>
+    <string name="no_update">No hay actualización</string>
+</resources>

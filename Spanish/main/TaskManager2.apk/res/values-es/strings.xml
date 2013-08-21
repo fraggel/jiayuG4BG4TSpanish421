@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Gestor de RAM</string>
+    <string name="refresh">Actualizar</string>
+    <string name="killall">Cerrar todo</string>
+    <string name="totalMemory">Memoria Total</string>
+    <string name="used">Usada</string>
+    <string name="free">Libre</string>
+    <string name="application">Todas las Aplicaciones</string>
+    <string name="sort_memory">Ordenar por memoria</string>
+    <string name="sort_title">Ordenar por nombre</string>
+    <string name="advanced">Avanzado</string>
+    <string name="refreshOn">Actualizando....</string>
+    <string name="alter">Cerrar Aplicaciones</string>
+    <string name="killall_alter">¿Desea cerrar todas las aplicaciones?</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="option">Opción</string>
+    <string name="attribute">Info</string>
+    <string name="addToWhite">Añadir a la lista blanca</string>
+    <string name="white_list">Lista blanca</string>
+    <string name="alert_user">Esta operación cerrará todas las aplicaciones que no estén en la lista blanca. Puedes añadir un elemento a la lista blanca con una pulsación prolongada sobre dicha aplicación</string>
+    <string name="not_prompt">No preguntar</string>
+    <string name="switch_to">Cambiar a</string>
+    <string name="auto_clear">Limpiar memoria automáticamente</string>
+    <string name="clean_finish">Limpieza terminada</string>
+    <string name="auto_appname">AutoLimpieza</string>
+</resources>
